@@ -1,4 +1,7 @@
 
 public class Hello {
 
+	Hello () {
+		
+	}
 }
